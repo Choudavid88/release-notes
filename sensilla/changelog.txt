@@ -1,0 +1,15 @@
+  Theme : Sensilla
+Version : 1.1
+ Author : CS Themes - http://csthemes.com
+
+December 08 2013 - 1.1
+===========================================================
+- Fix caption background
+- Fix posts duplicate dates - publish and update dates
+- Change featured images design and fix overflow
+- Remove auto hyphens on post content
+- Add full width page template
+
+November 03 2013 - 1.0
+===========================================================
+- Initial release

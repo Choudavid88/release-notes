@@ -1,0 +1,28 @@
+.fixed{
+	background-color: #f0ffe1;
+  background-position: 0 -150px;
+  border-color: #5ba622;
+  background: #f3f3f3;
+  border-right: 3px solid #ccc;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.05),0 -1px 0 rgba(0,0,0,0.05) inset;
+  color: #333;
+  display: inline-block;
+  font-size: 11px;
+  font-style: normal;
+  line-height: 14px;
+  padding: 4px 2px 4px 20px;
+  position: absolute;
+  top: .714rem;
+  left: 0;
+  text-shadow: 1px 1px 0 #fff;
+  text-transform: uppercase;
+  width: 102px;
+}
+
+.wip{
+
+}
+
+.known{
+
+}
